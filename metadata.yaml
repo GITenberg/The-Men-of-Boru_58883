@@ -1,11 +1,16 @@
 _repo: The-Men-of-Boru_58883
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58883-h/images/cover.jpg
 creator:
   author:
     agent_name: Nelson, Jack A.
     gutenberg_agent_id: '50198'
     url: http://www.gutenberg.org/2009/agents/50198
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58883#The-Men-of-Boru
 gutenberg_issued: '2019-02-13'
 gutenberg_type: Text
 identifiers:
